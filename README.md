@@ -52,9 +52,9 @@ Built with ❤️ using Flutter, Riverpod, SQLite, and Firebase.
 |-----------|---------------|----------------|
 | ![Todo](screenshots/todo.png) | ![Water](screenshots/water.png) | ![Task](screenshots/task.png) |
 
-| Quick Notes | Settings | Profile |
-|-------------|----------|---------|
-| ![Notes](screenshots/notes.png) | ![Settings](screenshots/settings.png) | ![Profile](screenshots/profile.png) |
+| Quick Notes | Settings |
+|-------------|----------|
+| ![Notes](screenshots/notes.png) | ![Settings](screenshots/settings.png) |
 
 </div>
 
